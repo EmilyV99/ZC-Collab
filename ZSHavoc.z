@@ -8211,6 +8211,8 @@ ffc script Ending{
 	}
 }
 
+yah
+
 ffc script IdiotProof{
 	void run(){
 		while(true){
